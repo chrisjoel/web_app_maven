@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>11</maven.compiler.source> <!-- Updated Java version -->
-        <maven.compiler.target>11</maven.compiler.target -->
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
     <modules>

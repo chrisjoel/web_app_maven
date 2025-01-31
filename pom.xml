@@ -72,6 +72,12 @@
                     <!-- Removed reportPlugins from here -->
                 </configuration>
             </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>3.3.2</version> <!-- Added maven-war-plugin -->
+            </plugin>
         </plugins>
     </build>
 

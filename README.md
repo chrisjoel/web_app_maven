@@ -37,3 +37,10 @@ DockerHub: Hosts the Docker images. After the image is built and scanned, it is 
 - **SONAR_PROJECT_KEY**: SonarCloud project key.
 - **SONAR_ORG**: SonarCloud organization.
 - **SONAR_TOKEN**: Jenkins credentials for SonarCloud token.
+
+
+
+## Architecture ##
+
+
+![web_app_maven image](https://github.com/user-attachments/assets/20733d73-31ac-4443-ba79-2fa89e0e2df6)
